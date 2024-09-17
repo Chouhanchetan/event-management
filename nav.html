@@ -22,28 +22,31 @@
             gap: 12rem;
             padding-right: 45px;
             font-size: large;
+            
         }
-        .link{
-            color: #2D4A3A;
-        }
-        .links:hover{
-            color: rgb(223, 168, 52);
-        }
+
         .hello{
             height: 90px;
             width: 90px;
-        }        
+        }   
+        .links a{
+            text-decoration: none;
+            color: #2D4A3A;
+        }     
+        .links a:hover{
+            color: rgb(223, 168, 52);
+        }
 
     </style>
 </head>
 <body>
     <nav>
         <ul class="link">
-            <li class="links">ABOUT</li>
-            <li class="links">EVENTS</li>
+            <li class="links"><a href="about.php">ABOUT</a></li>
+            <li class="links"><a href="event.php">EVENTS</a></li>
             <img src="" class="hello">
-            <li class="links">KIND WORDS</li>
-            <li class="links">CONTACT</li>
+            <li class="links"><a href="kindwords.php">KIND WORDS</a></li>
+            <li class="links"><a href="contact.php">CONTACT</a></li>
         </ul>
     </nav>
 </body>
