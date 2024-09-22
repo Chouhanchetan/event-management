@@ -199,7 +199,7 @@ fieldset {
         <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
   <label for="vehicle1"><b>Full Planning + Design - Wedding</b></label><br>
   <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
-  <label for="vehicle2"><b>Custom Quote Celebration - Corporate Party, Engagement Party, Birthday, Bat/Bar Mitzvah, Special Celebration</b></label><br>
+  <label for="vehicle2"><b>Custom Quote Celebration - Corporate Party, Engagement Party, Birthday</b></label><br>
   <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
   <label for="vehicle3"><b>Unsure, Let's Chat</b></label>
   <fieldset><br>
