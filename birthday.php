@@ -95,11 +95,12 @@
     padding-left: 38px;
     width: 600px;
     }
-    h2 a{
+    h2{
+        color: #2D4A3A;
+    }
+    .y a{
         color: #2D4A3A;
         text-decoration:none;
-    }
-    h2{
         align-items: center;
     display: flex;
     justify-content: center;
@@ -147,7 +148,7 @@
         <p>Get ready to build up the fun with a Construction Zone-themed birthday party! The venue becomes a bustling construction site with yellow caution tape, traffic cones, and toolboxes as décor. Guests are welcomed with hard hats, safety vests, and toy tools, ready to get to work. Set up "construction stations" with building blocks, sandboxes for digging, and toy trucks. Activities include a building competition, “demolition” games, and a wheelbarrow race. Decorate tables with mini construction vehicles, nuts and bolts, and construction-themed signs. A construction-themed cake and “dirt” cupcakes with chocolate gravel complete the celebration for an action-packed, hands-on experience!</p>
 </div>
 </div><br><br><br>
-<h2> <a href="contact.php">CONTACT US TO GET STARTED></a></h2>
+<h2 class="y"> <a href="contact.php">CONTACT US TO GET STARTED></a></h2>
 
     <br>
     <center><hr class="hr2"></center>
