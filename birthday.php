@@ -52,7 +52,7 @@
     align-items: center;
         }
         .container2{
-            height: 419px;
+            height: 445px;
             width:663px;
             background: rgb(245, 221, 169);
             padding-left: 45px;
@@ -60,21 +60,28 @@
             border-radius:10%
         }
         .container3{
-            height: 419px;
+            height: 470px;
             width:663px;
             background: rgb(245, 221, 169);
             padding-left: 45px;
             padding-top: 20px;
-            border-radius:10%
-            
+            border-radius:10%            
         }
         .container4{
-            height: 314px;
+            height: 490px;
     width: 570px;
     background: rgb(245, 221, 169);
     padding-left: 45px;
     padding-top: 20px;
     border-radius: 10%;
+        }
+        .container5{
+            height: 500px;
+            width:663px;
+            background: rgb(245, 221, 169);
+            padding-left: 45px;
+            padding-top: 20px;
+            border-radius:10%
         }
     .hr1{
         color: rgb(223, 168, 52);
@@ -88,8 +95,14 @@
     padding-left: 38px;
     width: 600px;
     }
-    h2{
+    h2 a{
         color: #2D4A3A;
+        text-decoration:none;
+    }
+    h2{
+        align-items: center;
+    display: flex;
+    justify-content: center;
     }
 </style>
 </head>
@@ -105,8 +118,8 @@
    <br><br><br>
     <div class="container1">
     <div class="container2">
-        <h2>PRODUCT LAUNCH</h2>
-        <p>Many companies we deal with have a need to promote new products both internally to their own organization and externally to their clients, buyers, dealer or press. Professionally we elevate your presentation with simple set and staging. With proper light effects, sound, data backup and professional technical advice. We use dynamic lighting effects, gobos, scanners etc to give a real feel of movement, change, and exciting environment. It is associated with warm and soft or alive and kicking, sound. We can certainly come up with ideas for that as well.</p>
+        <h2>Princess Fairytale</h2>
+        <p>Transport guests into a magical kingdom with a whimsical Princess Fairytale theme. Decorate with pastel hues, gold accents, and enchanting castles. A royal entrance, complete with a red carpet, leads to a beautifully adorned venue featuring a throne for the birthday child. Guests arrive dressed as princes, princesses, and knights, with tiaras and wands provided. Activities include a Royal Ball, crown-making crafts, and a treasure hunt for “royal jewels.” End the celebration with a princess cake and a magical photo op at a fairytale backdrop, creating an unforgettable royal experience.</p>
        </div>
     <img class="im" src="" alt="">
 </div>
@@ -114,34 +127,27 @@
     <div class="container1">
     <img class="im" src="" alt="">
     <div class="container3">
-        <h2>CONFERENCE & SEMINARS</h2>
-        <p>We ensure success of any conferences or seminars by well crafted event planning & Management also reviewing that’s our strength. Our ability to get into the minutest of the details enables us to secure & handle every aspect right from hospitality to the most advanced technical requirements of any conference or seminar. The ideal customer experience in an event is a comprehensive, yet flexible framework for achieving customer loyalty by learning and understanding your needs.</p>
+        <h2>Animal Safari</h2>
+        <p>Embark on a wild adventure with an exciting Animal Safari-themed birthday party! Transform the venue into a jungle oasis with greenery, animal prints, and life-sized animal cutouts. Greet guests with explorer hats and binoculars as they step into the "Safari Zone." Activities include a scavenger hunt to find hidden "wildlife," animal face painting, and a safari obstacle course. Set up a photo booth with plush jungle animals and safari-themed props. Decorate tables with mini safari trucks, animal figurines, and palm leaves. End the adventure with a jungle-themed cake, creating an unforgettable wild birthday experience!</p>
 </div>
 </div>
 <br><br><br>
 <div class="container1">
     <div class="container4">
-        <h2>AWARD NIGHT</h2>
-        <p>Having a beautiful backdrop for an award ceremony represents not only the significance of the event but also the respect the organizer has for the attendees, who took time out to attend, and to the award winners for their achievements Our team of designers can transform anything or any place to give you a stylish yet affordable award night.</p>
+        <h2>Superhero Adventure </h2>
+        <p>Unleash the power of imagination with a thrilling Superhero Adventure-themed birthday party! The venue transforms into a superhero headquarters, with city skyline backdrops, capes, and masks for every guest. Decorate in bold primary colors—red, blue, and yellow—along with superhero logos and comic book action signs. Activities include "hero training" obstacle courses, rescue missions, and a Superhero trivia challenge. Set up a photo booth with capes, masks, and action props for dynamic superhero poses. Themed treats like "power punch" drinks and a superhero cake complete the celebration, ensuring a heroic birthday adventure for all!</p>
 </div>
     <img class="im" src="" alt="">
 </div>
 </div><br><br><br>
 <div class="container1">
     <img class="im" src="" alt="">
-    <div class="container3">
-        <h2>THEME PARTY</h2>
-        <p>Craftworld themed events are extremely popular and are packed with excitement and guest participation. Page 3 Night Mediterranean Bollywood Jungle James Bond Futuristic Nights Roman Arabian Nights Red Night. Our Craftworld event management company in Delhi can project Logos, messages and create an astonishing launch of your product, surround it with Laser light and present it in an unforgettable way. Read IKFW Review here</p>
+    <div class="container5">
+        <h2>Construction Zone</h2>
+        <p>Get ready to build up the fun with a Construction Zone-themed birthday party! The venue becomes a bustling construction site with yellow caution tape, traffic cones, and toolboxes as décor. Guests are welcomed with hard hats, safety vests, and toy tools, ready to get to work. Set up "construction stations" with building blocks, sandboxes for digging, and toy trucks. Activities include a building competition, “demolition” games, and a wheelbarrow race. Decorate tables with mini construction vehicles, nuts and bolts, and construction-themed signs. A construction-themed cake and “dirt” cupcakes with chocolate gravel complete the celebration for an action-packed, hands-on experience!</p>
 </div>
 </div><br><br><br>
-<div class="container1">
-    <div class="container2">
-        <h2>SPORTS & ADVENTURES</h2>
-        <p>Showcasing of products with professional models elevates the visibility & prominence of any product. To get desired visibility among st the target audience it is of paramount importance. Fashion Shows works very well any event requires that glamour flick be it Customer Dealer Meets, Product Launches We specialise in Fashion Shows by coordinating all the requisite elements. Model Co-ordination (Super models, etc.) Professional choreography Designing Video Shoots for products & Catalogues etc.</p>
-       </div>
-    <img class="im" src="" alt="">
-</div>
-</div>
+<h2> <a href="contact.php">CONTACT US TO GET STARTED></a></h2>
 
     <br>
     <center><hr class="hr2"></center>
