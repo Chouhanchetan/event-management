@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Event</title>
     <link rel="stylesheet" href="event.css">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
         h1{
@@ -81,7 +82,7 @@
     ?><br>
          <center><hr class="hr"></center>
 
-     <div class="hello1">
+     <div class="hello1" data-aos="fade-in" data-aos-duration="1000"     data-aos-once="true">
 <div class="list"><img src="" alt=""></div>
 <div class="list"><img src="" alt=""></div>
 <div class="list"><img src="" alt=""></div>
@@ -90,7 +91,7 @@
 
 <div class="container">
       <div class="color">
-          <h1>Your Story. Our Creative.</h1>
+          <h1 data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">Your Story. Our Creative.</h1>
           <p>Full Service Intentional Events</p>
           <p>Every single client is unique and the design of an event should speak to that. We believe in curating our designs by honoring our clients stories, personalities and inspirations. Whether you are looking to host your event in the Pacific NW or define your style with a unique destination, we support you with the intention your journey deserves.</p>
       <br>
@@ -101,7 +102,7 @@
        <a href="birthday.php"><p><b>>BIRTHDAY PARTY</b></p></a>       
     </div>
 </div>
-<img class="im" src="" alt="">
+<img class="im" data-aos="fade-left" data-aos-duration="1000"     data-aos-once="ture" src="" alt="">
 </div><br><br><br>
 
      <center><hr class="hr"></center>
@@ -109,5 +110,9 @@
     include('footer.html');
     ?>
 
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 </body>
 </html>
