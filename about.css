@@ -2,6 +2,7 @@
 
 body{
     background:rgb(240, 234, 223);
+  
 }
 .hr{
     width: 80%;
@@ -14,10 +15,12 @@ body{
     align-items: center;
     flex-direction: column;
     height: 384px;
+     
 }
 .hr1{
     width: 30%;
     opacity: 0.3;
+    
 }
 h1{
     font-family: "Dancing Script", cursive;
@@ -58,4 +61,21 @@ p{
 
   .hii{
     text-align: center;
+  }
+  .hello1 .list .post{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: rgba(0,0,0,0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    opacity: 0;
+    transition: 0.6s;
+  }
+  .post:hover{
+    opacity: 1;
   }
