@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About</title>
+    <title>About | Enchanted Events</title>
     <link rel="stylesheet" href="about.css">
-
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
 <body>
     <?php
@@ -23,21 +23,30 @@
     <div class="hii"><h1>The Team</h1></div>
 
     <div class="hello1">
-<div class="list"><img src="" alt=""></div>
-<div class="list"><img src="" alt=""></div>
-<div class="list"><img src="" alt=""></div>
-<div class="list"><img src="" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt="">
+<div class="post">
+    <h1>Chetan Chouhan</h1>
+    <p>Event director</p>
+</div></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
 </div>
 <div class="hello1">
-<div class="list"><img src="" alt=""></div>
-<div class="list"><img src="" alt=""></div>
-<div class="list"><img src="" alt=""></div>
-<div class="list"><img src="" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
 </div>
 <center><hr class="hr"></center>
    <?php
    include('footer.html');
    ?>
+   <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+
 
 </body>
 </html>
