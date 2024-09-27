@@ -52,31 +52,14 @@
     align-items: center;
         }
         .container2{
-            height: 419px;
             width:663px;
             background: rgb(245, 221, 169);
             padding-left: 45px;
             padding-top: 20px;
-            border-radius:10%
+            border-radius:50px
         }
-        .container3{
-            height: 419px;
-            width:663px;
-            background: rgb(245, 221, 169);
-            padding-left: 45px;
-            padding-top: 20px;
-            border-radius:10%
-            
-        }
-        .container4{
-            height: 314px;
-    width: 570px;
-    background: rgb(245, 221, 169);
-    padding-left: 45px;
-    padding-top: 20px;
-    border-radius: 10%;
-        }
-    .hr1{
+
+     .hr1{
         color: rgb(223, 168, 52);
     }
     .hr2{
@@ -90,6 +73,13 @@
     }
     h2{
         color: #2D4A3A;
+    }
+    .y a{
+        color: #2D4A3A;
+        text-decoration:none;
+        align-items: center;
+    display: flex;
+    justify-content: center;
     }
 </style>
 </head>
@@ -113,14 +103,14 @@
 <br><br><br>
     <div class="container1">
     <img class="im" src="" alt="">
-    <div class="container3">
+    <div class="container2">
         <h2>CONFERENCE & SEMINARS</h2>
         <p>We ensure success of any conferences or seminars by well crafted event planning & Management also reviewing that’s our strength. Our ability to get into the minutest of the details enables us to secure & handle every aspect right from hospitality to the most advanced technical requirements of any conference or seminar. The ideal customer experience in an event is a comprehensive, yet flexible framework for achieving customer loyalty by learning and understanding your needs.</p>
 </div>
 </div>
 <br><br><br>
 <div class="container1">
-    <div class="container4">
+    <div class="container2">
         <h2>AWARD NIGHT</h2>
         <p>Having a beautiful backdrop for an award ceremony represents not only the significance of the event but also the respect the organizer has for the attendees, who took time out to attend, and to the award winners for their achievements Our team of designers can transform anything or any place to give you a stylish yet affordable award night.</p>
 </div>
@@ -129,7 +119,7 @@
 </div><br><br><br>
 <div class="container1">
     <img class="im" src="" alt="">
-    <div class="container3">
+    <div class="container2">
         <h2>THEME PARTY</h2>
         <p>Craftworld themed events are extremely popular and are packed with excitement and guest participation. Page 3 Night Mediterranean Bollywood Jungle James Bond Futuristic Nights Roman Arabian Nights Red Night. Our Craftworld event management company in Delhi can project Logos, messages and create an astonishing launch of your product, surround it with Laser light and present it in an unforgettable way. Read IKFW Review here</p>
 </div>
@@ -145,8 +135,10 @@
 
     <br>
     <center><hr class="hr2"></center>
+    
     <?php
     include('footer.html');
     ?>
+    
 </body>
 </html>
