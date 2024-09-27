@@ -52,38 +52,14 @@
     align-items: center;
         }
         .container2{
-            height: 445px;
             width:663px;
             background: rgb(245, 221, 169);
             padding-left: 45px;
             padding-top: 20px;
-            border-radius:10%
+            border-radius:50px
         }
-        .container3{
-            height: 470px;
-            width:663px;
-            background: rgb(245, 221, 169);
-            padding-left: 45px;
-            padding-top: 20px;
-            border-radius:10%            
-        }
-        .container4{
-            height: 490px;
-    width: 570px;
-    background: rgb(245, 221, 169);
-    padding-left: 45px;
-    padding-top: 20px;
-    border-radius: 10%;
-        }
-        .container5{
-            height: 500px;
-            width:663px;
-            background: rgb(245, 221, 169);
-            padding-left: 45px;
-            padding-top: 20px;
-            border-radius:10%
-        }
-    .hr1{
+
+     .hr1{
         color: rgb(223, 168, 52);
     }
     .hr2{
@@ -127,14 +103,14 @@
 <br><br><br>
     <div class="container1">
     <img class="im" src="" alt="">
-    <div class="container3">
+    <div class="container2">
         <h2>Animal Safari</h2>
         <p>Embark on a wild adventure with an exciting Animal Safari-themed birthday party! Transform the venue into a jungle oasis with greenery, animal prints, and life-sized animal cutouts. Greet guests with explorer hats and binoculars as they step into the "Safari Zone." Activities include a scavenger hunt to find hidden "wildlife," animal face painting, and a safari obstacle course. Set up a photo booth with plush jungle animals and safari-themed props. Decorate tables with mini safari trucks, animal figurines, and palm leaves. End the adventure with a jungle-themed cake, creating an unforgettable wild birthday experience!</p>
 </div>
 </div>
 <br><br><br>
 <div class="container1">
-    <div class="container4">
+    <div class="container2">
         <h2>Superhero Adventure </h2>
         <p>Unleash the power of imagination with a thrilling Superhero Adventure-themed birthday party! The venue transforms into a superhero headquarters, with city skyline backdrops, capes, and masks for every guest. Decorate in bold primary colors—red, blue, and yellow—along with superhero logos and comic book action signs. Activities include "hero training" obstacle courses, rescue missions, and a Superhero trivia challenge. Set up a photo booth with capes, masks, and action props for dynamic superhero poses. Themed treats like "power punch" drinks and a superhero cake complete the celebration, ensuring a heroic birthday adventure for all!</p>
 </div>
@@ -143,7 +119,7 @@
 </div><br><br><br>
 <div class="container1">
     <img class="im" src="" alt="">
-    <div class="container5">
+    <div class="container2">
         <h2>Construction Zone</h2>
         <p>Get ready to build up the fun with a Construction Zone-themed birthday party! The venue becomes a bustling construction site with yellow caution tape, traffic cones, and toolboxes as décor. Guests are welcomed with hard hats, safety vests, and toy tools, ready to get to work. Set up "construction stations" with building blocks, sandboxes for digging, and toy trucks. Activities include a building competition, “demolition” games, and a wheelbarrow race. Decorate tables with mini construction vehicles, nuts and bolts, and construction-themed signs. A construction-themed cake and “dirt” cupcakes with chocolate gravel complete the celebration for an action-packed, hands-on experience!</p>
 </div>
