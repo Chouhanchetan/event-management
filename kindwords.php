@@ -38,21 +38,11 @@
     align-items: center;
         }
         .container2{
-            height: 419px;
             width:663px;
             background: rgb(245, 221, 169);
             padding-left: 45px;
             padding-top: 20px;
-            border-radius:10%
-        }
-        .container3{
-            height: 419px;
-            width:663px;
-            background: rgb(245, 221, 169);
-            padding-left: 45px;
-            padding-top: 20px;
-            border-radius:10%
-            
+            border-radius:50px;
         }
         .im{
             width: 500px;
@@ -78,7 +68,7 @@
 <br><br><br>
 <div class="container1">
     <img class="im" src="" alt="">
-    <div class="container3">
+    <div class="container2">
         <h2>CONFERENCE & SEMINARS</h2>
         <p>We ensure success of any conferences or seminars by well crafted event planning & Management also reviewing that’s our strength. Our ability to get into the minutest of the details enables us to secure & handle every aspect right from hospitality to the most advanced technical requirements of any conference or seminar. The ideal customer experience in an event is a comprehensive, yet flexible framework for achieving customer loyalty by learning and understanding your needs.</p>
 </div>
@@ -94,7 +84,7 @@
 <br><br><br>
 <div class="container1">
     <img class="im" src="" alt="">
-    <div class="container3">
+    <div class="container2">
         <h2>CONFERENCE & SEMINARS</h2>
         <p>We ensure success of any conferences or seminars by well crafted event planning & Management also reviewing that’s our strength. Our ability to get into the minutest of the details enables us to secure & handle every aspect right from hospitality to the most advanced technical requirements of any conference or seminar. The ideal customer experience in an event is a comprehensive, yet flexible framework for achieving customer loyalty by learning and understanding your needs.</p>
 </div>
