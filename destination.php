@@ -39,8 +39,8 @@
         .im{
             width: 300px;
             height: 500px;
-            border-top-left-radius: 50%;
-            border-top-right-radius: 50%;
+            border-top-left-radius: 363px;
+            border-top-right-radius: 363px;
         }
         .container1{
             width: 80%;
@@ -51,28 +51,11 @@
     align-items: center;
         }
         .container2{
-            height: 419px;
             width:663px;
             background: rgb(245, 221, 169);
             padding-left: 45px;
             padding-top: 20px;
-            border-radius:10%
-        }
-        .container3{
-            height: 240px;
-            width: 610px;
-            background: rgb(245, 221, 169);
-            padding-left: 45px;
-            padding-top: 20px;
-            border-radius:10%
-        }
-        .container4{
-            height: 300px;
-    width: 570px;
-    background: rgb(245, 221, 169);
-    padding-left: 45px;
-    padding-top: 20px;
-    border-radius: 10%;
+            border-radius:50px
         }
     .hr1{
         color: rgb(223, 168, 52);
@@ -131,7 +114,7 @@
 </div><br><br><br>
     <div class="container1">
     <img class="im" src="" alt="">
-    <div class="container3">
+    <div class="container2">
         <h2>Destination Design</h2>
         <p>Creating an individualized mood board & color palette </p>
         <p>Building custom layouts via our custom design program for each location</p>
@@ -141,7 +124,7 @@
 </div>
 <br><br><br>
 <div class="container1">
-    <div class="container4">
+    <div class="container2">
         <h2>Onsite Production</h2>
         <p>Supporting setup of all vendor components</p>
         <p>Partnering with Venue & locations to manage onsite expectations</p>
