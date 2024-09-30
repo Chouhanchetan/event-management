@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(240, 89, 7, 0.82);
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    transition: .5s ease;
+}
+.text {
+    color: white;
+    font-size: 1.2vw;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}.fade-overlay {
+    height: 100%;
+    opacity: 0;
+}
+
+.item:hover .fade-overlay {
+  opacity: 1;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+    </style>
+</head>
+<body>
+    <div class="col-md-6 col-lg-4">
+        <div class="item animated wow fadeIn">
+            <img src="https://i.ibb.co/m5yGbdR/blog2.jpg" alt="">
+            <div class="overlay fade-overlay">
+<div class="text">Fade in overlay</div>
+</div>
+        </div>
+      </div>
+</body>
+</html>
