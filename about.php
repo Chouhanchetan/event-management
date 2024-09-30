@@ -11,11 +11,11 @@
     <?php
     include('nav.html');
     ?>
-    <br>
+    <br><br><br><br><br>
  <center><hr class="hr"></center>
  <div class="container">
     <h1>About Us</h1>
-    <p>Adornment was created with the notion that all events should be unique and thoughtful. Our team has worked in the Portland area for over 15 years in weddings and special events. We’ve done everything from an orchard country wedding of 20 people, to managing high-touch corporate galas and multi-day events. Our foundation of events is built on providing a full-service and freshly creative team to our special clients.</p>
+  <p>"Enter Enchanted Events, a place where elegance and magic collide. We design amazing, surreal events for celebrations, galas, and weddings. Allow us to incorporate elegance, refinement, and unique details into your vision to create a genuinely captivating event."</p>
     <p>Truth – we love what we do, and take pride in creating experiences for our clients!</p>
     </div>
     <center><hr class="hr"></center>
@@ -23,20 +23,20 @@
     <div class="hii"><h1>The Team</h1></div>
 
     <div class="hello1">
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt="">
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A1.jpg" alt="">
 <div class="post">
     <h1>Chetan Chouhan</h1>
     <p>Event director</p>
 </div></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A2.jpg" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A3.jpg" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A4.jpg" alt=""></div>
 </div>
 <div class="hello1">
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A5.jpg" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A6.jpg" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A7.jpg" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A8.jpg" alt=""></div>
 </div>
 <center><hr class="hr"></center>
    <?php
