@@ -61,7 +61,7 @@ body{
     font-optical-sizing: auto;
     font-weight: 800;
     font-style: normal;
-    color: rgb(223, 168, 52);
+    color:#564332 ;
     font-size: xxx-large;
     text-align: center;
 }
@@ -196,14 +196,14 @@ fieldset {
         <b>How many guests are you anticipating?</b><br>
         <input type="text" tabindex="1" required autofocus name="guests">
         </fieldset>
-        <input type="radio" id="vehicle1" name="planning" value="FPDW">
-  <label for="vehicle1"><b>Full Planning + Design - Wedding</b></label><br>
-  <input type="radio" id="vehicle2" name="planning" value="EP">
-  <label for="vehicle2"><b>Engagement Party</b></label><br>
+        <input type="radio" id="vehicle1" name="planning" value="EP">
+  <label for="vehicle1"><b>Engagement Party</b></label><br>
+  <input type="radio" id="vehicle2" name="planning" value="DW">
+  <label for="vehicle2"><b>Destination Wedding</b></label><br>
   <input type="radio" id="vehicle3" name="planning" value="CE">
   <label for="vehicle3"><b>Corporate event</b></label><br>
-  <input type="radio" id="vehicle3" name="planning" value="BP">
-  <label for="vehicle3"><b>Birthday Party</b></label><br>
+  <input type="radio" id="vehicle3" name="planning" value="OE">
+  <label for="vehicle3"><b>Other Events</b></label><br>
   <input type="radio" id="vehicle3" name="planning" value="NS">
   <label for="vehicle3"><b>Not sure, let's talk</b></label>
   <fieldset><br>
