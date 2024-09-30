@@ -14,7 +14,7 @@
     font-optical-sizing: auto;
     font-weight: 800;
     font-style: normal;
-    color: rgb(223, 168, 52);
+    color:#564332 ;
     font-size: xxx-large;
     align-items: center;
         }
@@ -53,7 +53,7 @@
 <body>
     <?php
     include('nav.html');
-    ?> <br>
+    ?> <br> <br><br><br><br>
      <div class="container">
     <h1>Kind Words</h1>
     </div>
