@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>kindwords</title>
-    <link rel="stylesheet" href="kindwords.css">
+    <title>Kind Words | Enchanted Events</title>
     <style>
         body{
             background:rgb(240, 234, 223);
@@ -18,9 +17,15 @@
     font-size: xxx-large;
     align-items: center;
         }
-        .hr{
-            width: 30%;
-            opacity: 0.5;
+        p{
+            font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    width: 521px;
+    font-size: x-large;
         }
         .container{
             width: 100%;
@@ -28,6 +33,15 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+        }
+        hr{
+            width: 30%;
+            opacity: 0.5;
+        }
+        .im{
+            width: 400px;
+            height: 500px;
+         
         }
         .container1{
             width: 80%;
@@ -37,57 +51,88 @@
     justify-content: space-between;
     align-items: center;
         }
-        .container2{
+        .contkainer2{
             width:663px;
             background: rgb(245, 221, 169);
             padding-left: 45px;
             padding-top: 20px;
-            border-radius:50px;
+            border-radius:50px
         }
-        .im{
-            width: 500px;
-            height: 500px;
-        }
-    </style>
+
+     .hr1{
+        color: rgb(223, 168, 52);
+    }
+    .hr2{
+        width: 80%;
+        opacity: 0.5;
+    }
+    .hey{
+        padding-top: 100px;
+    padding-left: 38px;
+    width: 600px;
+    }
+    h2{
+        color: #2D4A3A;
+    }
+    .y a{
+        color: #2D4A3A;
+        text-decoration:none;
+        align-items: center;
+    display: flex;
+    justify-content: center;
+    }
+</style>
 </head>
 <body>
     <?php
     include('nav.html');
-    ?> <br> <br><br><br><br>
-     <div class="container">
+    ?>
+    <br> <br><br><br><br>
+    <div class="container">
     <h1>Kind Words</h1>
     </div>
     <center><hr class="hr"></center><br><br><br>
+   <br><br><br>
     <div class="container1">
     <div class="container2">
-        <h2>PRODUCT LAUNCH</h2>
-        <p>Many companies we deal with have a need to promote new products both internally to their own organization and externally to their clients, buyers, dealer or press. Professionally we elevate your presentation with simple set and staging. With proper light effects, sound, data backup and professional technical advice. We use dynamic lighting effects, gobos, scanners etc to give a real feel of movement, change, and exciting environment. It is associated with warm and soft or alive and kicking, sound. We can certainly come up with ideas for that as well.</p>
-       </div>
-    <img class="im" src="" alt="">
+        <p>"We hired Enchanted Events for our annual corporate retreat, and they far exceeded our expectations. The team was extremely professional, handled every detail flawlessly, and created an environment in which our employees could relax and bond. Everything was perfect, from the venue set-up to the catering. I strongly recommend them for any corporate event!"</p>
+        <p><i>— John D., CEO of Chouhan Corporation.</i></p>
+        </div>
+    <img class="im" src="product.jpg" alt="">
+</div>
+<br><br><br>
+    <div class="container1">
+    <img class="im" src="KW1.jpg" alt="">
+    <div class="container2">
+        <p>"Our wedding was everything we hoped for, thanks to the exceptional coordination by Enchanted Event. From the initial planning stages to the final moments of the reception, the attention to detail was flawless. They handled everything with grace and made the entire day stress-free for us. Our guests are still raving about how lovely and organized everything was!"</p>
+        <p><i>— Suman & Neeraj</i></p>
+</div>
 </div>
 <br><br><br>
 <div class="container1">
-    <img class="im" src="" alt="">
     <div class="container2">
-        <h2>CONFERENCE & SEMINARS</h2>
-        <p>We ensure success of any conferences or seminars by well crafted event planning & Management also reviewing that’s our strength. Our ability to get into the minutest of the details enables us to secure & handle every aspect right from hospitality to the most advanced technical requirements of any conference or seminar. The ideal customer experience in an event is a comprehensive, yet flexible framework for achieving customer loyalty by learning and understanding your needs.</p>
+        <p>"We hosted a technology conference with over 500 attendees, and Enchanted Event executed it flawlessly. They managed logistics, audio-visual setups, and even provided excellent networking opportunities for attendees. The feedback from participants was overwhelmingly positive. This is a company that knows how to manage large-scale events!"</p>
+        <p><i>— Sara M.</i></p>
 </div>
+    <img class="im" src="award.jpg" alt="">
 </div>
-<br><br><br>
+</div><br><br><br>
 <div class="container1">
+    <img class="im" src="KW2.jpg" alt="">
     <div class="container2">
-        <h2>PRODUCT LAUNCH</h2>
-        <p>Many companies we deal with have a need to promote new products both internally to their own organization and externally to their clients, buyers, dealer or press. Professionally we elevate your presentation with simple set and staging. With proper light effects, sound, data backup and professional technical advice. We use dynamic lighting effects, gobos, scanners etc to give a real feel of movement, change, and exciting environment. It is associated with warm and soft or alive and kicking, sound. We can certainly come up with ideas for that as well.</p>
-       </div>
-    <img class="im" src="" alt="">
+        <p>"For my Son's tenth birthday, Enchanted Events transformed our backyard into a magical fairyland. Every child had an unforgettable experience, and the parents were as impressed. The level of care and creativity was outstanding, and I appreciate how smoothly everything went. "Highly recommended for any celebration!"</p>
+        <p><i>— Susan K.</i></p>
 </div>
-<br><br><br>
-<div class="container1">
-    <img class="im" src="" alt="">
-    <div class="container2">
-        <h2>CONFERENCE & SEMINARS</h2>
-        <p>We ensure success of any conferences or seminars by well crafted event planning & Management also reviewing that’s our strength. Our ability to get into the minutest of the details enables us to secure & handle every aspect right from hospitality to the most advanced technical requirements of any conference or seminar. The ideal customer experience in an event is a comprehensive, yet flexible framework for achieving customer loyalty by learning and understanding your needs.</p>
+</div><br><br><br>
 </div>
-</div>
+<h2 class="y"> <a href="contact.php">CONTACT US TO GET STARTED></a></h2>
+
+    <br>
+    <center><hr class="hr2"></center>
+    
+    <?php
+    include('footer.html');
+    ?>
+    
 </body>
 </html>
