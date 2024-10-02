@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Event</title>
+    <title>Event | Enchanted Events</title>
     <link rel="stylesheet" href="event.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <style>
@@ -86,7 +86,7 @@
 <div class="list"><img src="A.jpg" alt=""></div>
 <div class="list"><img src="C.jpg" alt=""></div>
 <div class="list"><img src="B.jpg" alt=""></div>
-<div class="list"><img src="D.jpg" alt=""></div>
+<div class="list"><img src="BI.jpg" alt=""></div>
 </div><br><br><br><br>
 
 <div class="container">
@@ -99,7 +99,7 @@
        <a href="Engagement.php"><p><b>>ENGAGEMENT PARTY</b></p></a>
        <a href="destination.php"><p><b>>DESTINATION WEDDINGS</b></p></a>
        <a href="corporate.php"><p><b>>CORPORATE EVENTS</b></p></a>
-       <a href="Events.php"><p><b>>EVENTS </b></p></a>       
+       <a href="Otherevents.php"><p><b>>OTHER EVENTS </b></p></a>       
     </div>
 </div>
 <img class="im" data-aos="fade-left" data-aos-duration="1000"     data-aos-once="ture" src="E1.jpg" alt="">
