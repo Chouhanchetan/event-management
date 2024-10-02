@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Birthday Party</title>
+    <title>Other Events | Enchanted Events</title>
     <style>
         body{
             background:rgb(240, 234, 223);
@@ -89,7 +89,7 @@
     ?>
     <br><br><br><br><br>
     <div class="container">
-    <h1>Birthday Party</h1>
+    <h1>Other Events</h1>
     </div>
     <center><hr class="hr"></center><br><br><br>
    <br><br><br>
