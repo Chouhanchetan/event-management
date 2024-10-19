@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Event | Enchanted Events</title>
+    <link rel="icon" href="icon.png" sizes="32x32">
     <link rel="stylesheet" href="event.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <style>
@@ -48,10 +49,9 @@
     justify-content: space-between;
   }
  
-  p{
+  .no{
     font-family: "Open Sans", system-ui;
   font-optical-sizing: auto;
-  font-weight: <weight>;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
@@ -92,8 +92,8 @@
 <div class="container">
       <div class="color">
           <h1 data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">Your Story. Our Creative.</h1>
-          <p>Full Service Intentional Events</p>
-          <p>Every single client is unique and the design of an event should speak to that. We believe in curating our designs by honoring our clients stories, personalities and inspirations. Whether you are looking to host your event in the Pacific NW or define your style with a unique destination, we support you with the intention your journey deserves.</p>
+          <p class="no">Full Service Intentional Events</p>
+          <p class="no">Every single client is unique and the design of an event should speak to that. We believe in curating our designs by honoring our clients stories, personalities and inspirations. Whether you are looking to host your event in the Pacific NW or define your style with a unique destination, we support you with the intention your journey deserves.</p>
       <br>
     <div class="color2">
        <a href="Engagement.php"><p><b>>ENGAGEMENT PARTY</b></p></a>
@@ -106,10 +106,9 @@
 </div><br><br><br>
 
      <center><hr class="hr"></center>
-    <?php
-    include('footer.html');
-    ?>
-
+     <?php
+ include('footer.html');
+ ?>
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
   AOS.init();
