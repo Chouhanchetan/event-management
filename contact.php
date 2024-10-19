@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width= , initial-scale=1.0">
-    <title>Contact | Enchanted Events</title>
-    <style>
+    <title>Contact | Enchanted Events</title>  
+    <link rel="icon" href="icon.png" sizes="32x32">
+<style>
         @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,600,400italic);
 * {
   margin: 0;
@@ -186,7 +187,7 @@ fieldset {
     </fieldset>
     <fieldset>
         <b>Wedding or Special Event Date</b><br>
-      <input type="date" tabindex="1" required autofocus name="date">
+      <input type="date" tabindex="3" required autofocus name="date">
     </fieldset>
     <fieldset>
         <b>Event Location (or considering)</b><br>
