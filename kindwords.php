@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kind Words | Enchanted Events</title>
+    <link rel="icon" href="icon.png" sizes="32x32">
     <style>
         body{
             background:rgb(240, 234, 223);
@@ -17,7 +18,7 @@
     font-size: xxx-large;
     align-items: center;
         }
-        p{
+       .container2 > p{
             font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -51,9 +52,8 @@
     justify-content: space-between;
     align-items: center;
         }
-        .contkainer2{
+        .container2{
             width:663px;
-            background: rgb(245, 221, 169);
             padding-left: 45px;
             padding-top: 20px;
             border-radius:50px
@@ -128,11 +128,9 @@
 <h2 class="y"> <a href="contact.php">CONTACT US TO GET STARTED></a></h2>
 
     <br>
-    <center><hr class="hr2"></center>
-    
-    <?php
-    include('footer.html');
-    ?>
-    
+    <center><hr class="hr2"></center><br>
+<?php
+include('footer.html');
+?>
 </body>
 </html>
