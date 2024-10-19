@@ -29,14 +29,47 @@
             width: 300px;
             mix-blend-mode: multiply;
         }   
-        .links a{
+        .links>a{
             text-decoration: none;
             color: #2D4A3A;
         }     
-        .links a:hover{
+        .links>a:hover{
             color: rgb(223, 168, 52);
         }
-    
+        .dropdown {
+  position: relative;
+  display: inline-block;
+}
+.links{
+    color: #2D4A3A;
+}
+.links:hover{
+    color: rgb(223, 168, 52);
+
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color:rgb(255, 255, 255); ;
+  min-width: 300px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content > a {
+  color: #2D4A3A;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content > a:hover{
+    color: rgb(223, 168, 52);
+}
+
+.show {display: block;}
 
     </style>
 </head>
@@ -44,11 +77,41 @@
     <nav>
         <ul class="link">
             <li class="links"><a href="about.php">ABOUT</a></li>
-            <li class="links"><a href="event.php">EVENTS</a></li>
-            <a href="event.php"><img src="logo3 Corr (2).png" class="hello"></a>
+            <div class="dropdown">
+                <li onclick="myFunction()" class="links">EVENTS</li>
+                <div id="myDropdown" class="dropdown-content">
+                  <a href="Engagement.php">ENGAGEMENT PARTY</a>
+                  <a href="destination.php">DESTINATION WEDDINGS</a>
+                  <a href="corporate.php">CORPORATE EVENTS</a>
+                  <a href="Otherevents.php">OTHER EVENTS</a>
+                </div>
+              </div>
+                          <a href="event.php"><img src="logo3 Corr (2).png" class="hello"></a>
             <li class="links"><a href="kindwords.php">KIND WORDS</a></li>
             <li class="links"><a href="contact.php">CONTACT</a></li>
         </ul>
     </nav>
+    <script>
+        /* When the user clicks on the button, 
+        toggle between hiding and showing the dropdown content */
+        function myFunction() {
+          document.getElementById("myDropdown").classList.toggle("show");
+        }
+        
+        // Close the dropdown if the user clicks outside of it
+        window.onclick = function(event) {
+          if (!event.target.matches('.links')) {
+            var dropdowns = document.getElementsByClassName("dropdown-content");
+            var i;
+            for (i = 0; i < dropdowns.length; i++) {
+              var openDropdown = dropdowns[i];
+              if (openDropdown.classList.contains('show')) {
+                openDropdown.classList.remove('show');
+              }
+            }
+          }
+        }
+        </script>
+        
 </body>
 </html>
