@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About | Enchanted Events</title>
+    <link rel="icon" href="icon.png" sizes="32x32">
     <link rel="stylesheet" href="about.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 </head>
@@ -28,15 +29,42 @@
     <h1>Chetan Chouhan</h1>
     <p>Event director</p>
 </div></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A2.jpg" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A3.jpg" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A4.jpg" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A2.jpg" alt="">
+<div class="post">
+    <h1>Ruchi Bandekar</h1>
+    <p>Event director</p>
+</div></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A3.jpg" alt="">
+<div class="post">
+    <h1>Shaun Chalil</h1>
+    <p>Event director</p>
+</div></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A4.jpg" alt="">
+<div class="post">
+    <h1>Samuel D'Souza</h1>
+    <p>Event director</p>
+</div></div>
 </div>
 <div class="hello1">
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A5.jpg" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A6.jpg" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A7.jpg" alt=""></div>
-<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A8.jpg" alt=""></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A5.jpg" alt="">
+<div class="post">
+    <h1>Sneha Mohite</h1>
+    <p>Event Coordinator</p>
+</div></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A6.jpg" alt="">
+<div class="post">
+    <h1>Harsh Parmar</h1>
+    <p>Event Coordinator</p>
+</div></div>  
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A7.jpg" alt=""><div class="post">
+    <h1>Sanjana Kotian</h1>
+    <p>Event Coordinator</p>
+</div></div>
+<div class="list" data-aos="zoom-in" data-aos-duration="1000" data-aos-once="true"><img src="A8.jpg" alt="">
+<div class="post">
+    <h1>Ismat Khan</h1>
+    <p>Event Coordinator</p>
+</div></div>
 </div>
 <center><hr class="hr"></center>
    <?php
