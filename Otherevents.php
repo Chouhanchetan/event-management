@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Other Events | Enchanted Events</title>
+    <link rel="icon" href="icon.png" sizes="32x32">
     <style>
         body{
             background:rgb(240, 234, 223);
@@ -17,7 +18,7 @@
     font-size: xxx-large;
     align-items: center;
         }
-        p{
+        .container > p{
             font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -96,7 +97,7 @@
     <div class="container1">
     <div class="container2">
         <h2>Baby Shower</h2>
-        <p>Transport guests into a magical kingdom with a whimsical Princess Fairytale theme. Decorate with pastel hues, gold accents, and enchanting castles. A royal entrance, complete with a red carpet, leads to a beautifully adorned venue featuring a throne for the birthday child. Guests arrive dressed as princes, princesses, and knights, with tiaras and wands provided. Activities include a Royal Ball, crown-making crafts, and a treasure hunt for “royal jewels.” End the celebration with a princess cake and a magical photo op at a fairytale backdrop, creating an unforgettable royal experience.</p>
+        <p>We’ll choose a theme that resonates with you, complete with coordinating decor and setup. We’ll secure a venue suited for your guest list and handle invitations and RSVPs. A tailored menu will be provided, including a selection of food and beverages. Fun, interactive games will be organized to engage your guests. Guests will leave with thoughtfully curated favors as a thank-you.</p>
        </div>
     <img class="im" src="EV1.jpg" alt="">
 </div>
@@ -105,14 +106,14 @@
     <img class="im" src="" alt="">
     <div class="container2">
         <h2>College Event</h2>
-        <p>Embark on a wild adventure with an exciting Animal Safari-themed birthday party! Transform the venue into a jungle oasis with greenery, animal prints, and life-sized animal cutouts. Greet guests with explorer hats and binoculars as they step into the "Safari Zone." Activities include a scavenger hunt to find hidden "wildlife," animal face painting, and a safari obstacle course. Set up a photo booth with plush jungle animals and safari-themed props. Decorate tables with mini safari trucks, animal figurines, and palm leaves. End the adventure with a jungle-themed cake, creating an unforgettable wild birthday experience!</p>
+        <p>We’ll establish a theme that resonates with your college community, including all relevant decor and visual elements. We’ll secure a suitable venue and manage logistics like seating, AV setup, and any special requirements. A structured timeline will outline activities, speakers, performances, and any other key moments.  We’ll provide a tailored menu with food and drinks that suit the event’s tone and budget. Engaging activities and entertainment will be organized to keep attendees involved and entertained. We’ll assist with promotional efforts and on-site support to ensure a smooth experience.</p>
 </div>
 </div>
 <br><br><br>
 <div class="container1">
     <div class="container2">
         <h2>Campaigns</h2>
-        <p>Unleash the power of imagination with a thrilling Superhero Adventure-themed birthday party! The venue transforms into a superhero headquarters, with city skyline backdrops, capes, and masks for every guest. Decorate in bold primary colors—red, blue, and yellow—along with superhero logos and comic book action signs. Activities include "hero training" obstacle courses, rescue missions, and a Superhero trivia challenge. Set up a photo booth with capes, masks, and action props for dynamic superhero poses. Themed treats like "power punch" drinks and a superhero cake complete the celebration, ensuring a heroic birthday adventure for all!</p>
+        <p>We’ll define clear goals and a strategy tailored to your target audience and campaign objectives.  Engaging content and visuals will be created to communicate your message effectively across all platforms. We’ll choose the most effective channels, whether digital, social media, or traditional, to maximize your reach. A detailed timeline will guide the rollout, ensuring all elements are coordinated and delivered on schedule. We’ll monitor performance and provide insights to measure success and guide future campaigns.</p>
 </div>
     <img class="im" src="EV3.jpg" alt="">
 </div>
@@ -121,15 +122,16 @@
     <img class="im" src="EV2.jpg" alt="">
     <div class="container2">
         <h2>Birthday Party</h2>
-        <p>Get ready to build up the fun with a Construction Zone-themed birthday party! The venue becomes a bustling construction site with yellow caution tape, traffic cones, and toolboxes as décor. Guests are welcomed with hard hats, safety vests, and toy tools, ready to get to work. Set up "construction stations" with building blocks, sandboxes for digging, and toy trucks. Activities include a building competition, “demolition” games, and a wheelbarrow race. Decorate tables with mini construction vehicles, nuts and bolts, and construction-themed signs. A construction-themed cake and “dirt” cupcakes with chocolate gravel complete the celebration for an action-packed, hands-on experience!</p>
+        <p>We’ll select a theme that reflects your style, complete with coordinating decor to set the mood. We’ll secure a venue and handle RSVPs to accommodate your guest list comfortably. A customized menu will be provided, with options for appetizers, main courses, and drinks. We’ll organize entertainment that suits your preferences, from live music to games. Thoughtful favors and special touches will ensure a memorable experience for your guests.</p>
 </div>
 </div><br><br><br>
 <h2 class="y"> <a href="contact.php">CONTACT US TO GET STARTED></a></h2>
 
     <br>
-    <center><hr class="hr2"></center>
+    <center><hr class="hr2"></center><br>
     <?php
     include('footer.html');
     ?>
+
 </body>
 </html>
