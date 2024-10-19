@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Corporate Events | Enchanted Events</title>
+    <link rel="icon" href="icon.png" sizes="32x32">
     <style>
         body{
             background:rgb(240, 234, 223);
@@ -137,9 +138,8 @@
     <br>
     <center><hr class="hr2"></center>
     
-    <?php
-    include('footer.html');
-    ?>
-    
+<?php
+include('footer.html');
+?>
 </body>
 </html>
