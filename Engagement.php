@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Engagement Party | Enchanted Events</title>
+    <link rel="icon" href="icon.png" sizes="32x32">
     <style>
         body{
             background:rgb(240, 234, 223);
@@ -88,6 +89,7 @@
     }
     h2{
         color: #2D4A3A;
+        text-align:center;
     }
     h2 a{
         text-decoration:none;
@@ -109,8 +111,8 @@
     <div class="container1">
         <img class="im" src="EN1.jpg" alt="">
         <div class="hey">
-            <h1>US, Europe & Mexico</h1>
-            <p>Wanting to escape the guest list and create a more intimate occasion in a unique location away from your hometown? Our team is well versed in creating experiential events across the US, Europe and Mexico. We take our formula and experience and apply to your location to ensure a seamless meaningful day.</p>
+            <h1>India, Us & Canada</h1>
+            <p>Wanting to escape the guest list and create a more intimate occasion in a unique location away from your hometown? Our team is well versed in creating experiential events across the India, Us & Canada. We take our formula and experience and apply to your location to ensure a seamless meaningful day.</p>
             <center><hr class="hr1"></center>
         </div>
         <div></div>
@@ -156,8 +158,9 @@
 
     <br>
     <center><hr class="hr2"></center>
-    <?php
-    include('footer.html');
-    ?>
+<br>
+<?php
+include('footer.html');
+?>
 </body>
 </html>
