@@ -7,73 +7,6 @@
     <link rel="icon" href="icon.png" sizes="32x32">
     <link rel="stylesheet" href="event.css">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-    <style>
-        @import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-        h1{
-            font-family: "Dancing Script", cursive;
-    font-optical-sizing: auto;
-    font-weight: 800;
-    font-style: normal;
-    color: rgb(223, 168, 52);
-    font-size: xxx-large;
-    align-items: center;
-    
-        }
-        body{
-          background:rgb(240, 234, 223);
-
-        }
-
-    hr{
-    width: 80%;
-    opacity: 0.5;
-}
-.hello1{            
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    padding: 10px;
-    gap: 3rem;
-    overflow: hidden; 
-}
-.list img{
-    height: 500px;
-    width: 224px;
-  }
-  .container{
-    width: 80%;
-    height: 500px;
-    margin: auto;
-    background: white;
-    display: flex;
-    justify-content: space-between;
-  }
- 
-  .no{
-    font-family: "Open Sans", system-ui;
-  font-optical-sizing: auto;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
-  }
-  .color{
-    padding-left:30px;
-    width: 43%;
-  }
-  .color2{
-    padding-left:55px;
-    color: #2D4A3A;
-  }
-.im{
-    width: 399px;
-    height: 399px;
-}
-.color2 a{
-  text-decoration:none;
-  color: #2D4A3A;
-
-}
-</style>
 
 </head>
 <body>
@@ -109,6 +42,7 @@
      <?php
  include('footer.html');
  ?>
+
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
   AOS.init();
