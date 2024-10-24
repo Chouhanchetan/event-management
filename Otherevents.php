@@ -82,6 +82,9 @@
     display: flex;
     justify-content: center;
     }
+    .container1 > .container2 > p{
+        font-size: x-large;
+    }
 </style>
 </head>
 <body>
