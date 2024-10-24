@@ -106,7 +106,7 @@
 </div>
 <br><br><br>
     <div class="container1">
-    <img class="im" src="" alt="">
+    <img class="im" src="college.jpg" alt="">
     <div class="container2">
         <h2>College Event</h2>
         <p>We’ll establish a theme that resonates with your college community, including all relevant decor and visual elements. We’ll secure a suitable venue and manage logistics like seating, AV setup, and any special requirements. A structured timeline will outline activities, speakers, performances, and any other key moments.  We’ll provide a tailored menu with food and drinks that suit the event’s tone and budget. Engaging activities and entertainment will be organized to keep attendees involved and entertained. We’ll assist with promotional efforts and on-site support to ensure a smooth experience.</p>
