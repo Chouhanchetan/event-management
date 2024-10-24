@@ -26,7 +26,7 @@
       <div class="color">
           <h1 data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">Your Story. Our Creative.</h1>
           <p class="no">Full Service Intentional Events</p>
-          <p class="no">Every single client is unique and the design of an event should speak to that. We believe in curating our designs by honoring our clients stories, personalities and inspirations. Whether you are looking to host your event in the Pacific NW or define your style with a unique destination, we support you with the intention your journey deserves.</p>
+          <p class="no">Every single client is unique and the design of an event should speak to that. We believe in curating our designs by honoring our clients stories, personalities and inspirations. Whether you are looking to host your event in your style with a unique destination, we support you with the intention your journey deserves.</p>
       <br>
     <div class="color2">
        <a href="Engagement.php"><p><b>>ENGAGEMENT PARTY</b></p></a>
